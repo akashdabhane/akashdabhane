@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Dabhane</h1>
-<h3 align="center">A passionate IT student from India</h3>
+<h3 align="center">A passionate IT student</h3>
 
 - 🌱 I’m currently learning **react, data science**
 
