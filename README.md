@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Dabhane</h1>
 <h3 align="center">A passionate IT student</h3>
 
-- 🌱 I’m currently learning **react, data science**
+- 🌱 I’m currently learning **Cloud Computing and data science**
 
 - 📫 How to reach me **akashdabhane10@gmail.com**
 
